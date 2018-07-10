@@ -1,5 +1,5 @@
 # React + JSON Server on Heroku
-How to use create-react-app + json-server (mock) on Heroku 
+How to run react and jsonserver on only one server in Heroku
 
 # Local Development
 
