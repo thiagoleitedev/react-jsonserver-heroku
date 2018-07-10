@@ -60,8 +60,9 @@ typings/
 # next.js build output
 .next
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+package-lock.json
