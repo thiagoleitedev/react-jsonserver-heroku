@@ -22,6 +22,7 @@ npm install
 
 # Start the server
 npm start
+```
 
 # Deploy to Heroku
 ```bash
@@ -29,3 +30,4 @@ git clone https://github.com/thiagoleitedev/react-jsonserver-heroku.git
 cd react-jsonserver-heroku/
 heroku create
 git push heroku master
+```
