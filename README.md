@@ -33,5 +33,5 @@ git push heroku master
 ```
 
 # Credits
-* [heroku-cra-node] (https://github.com/mars/heroku-cra-node)
-* [food-lookup-demo] (https://github.com/fullstackreact/food-lookup-demo)
+* [heroku-cra-node](https://github.com/mars/heroku-cra-node)
+* [food-lookup-demo](https://github.com/fullstackreact/food-lookup-demo)
