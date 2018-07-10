@@ -3,7 +3,7 @@ How to use create-react-app + json-server (mock) on Heroku
 
 # Local Development
 
-## Run JSON Server
+### Run JSON Server
 ```bash
 # Initial setup
 npm install
@@ -12,7 +12,7 @@ npm install
 npm start 
 ```
 
-## Run React client-side
+### Run React client-side
 ```bash
 # Change directory
 cd client/
